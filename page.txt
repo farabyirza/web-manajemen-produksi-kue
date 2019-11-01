@@ -1,0 +1,50 @@
+- daily
+- penjadwalan
+- edit
+- act_pengambilan
+- perencanaan3
+- jadwal_terinput
+- edit_pengambilan
+- pengambilan hari
+- pengambilan hari2
+- pengambilan hari3
+- pengambilan hari4
+- pengambilan hari5
+- pengambilan hari6
+- draft
+- draft2
+- draft3
+- draft4
+- draft5
+- draft6
+- draft7
+- jadwal_pengambilan
+- jadwal_pengambilan2
+- jadwal_pengambilan3
+- jadwal_pengambilan4
+- jadwal_pengambilan5
+- jadwal_pengambilan6
+- produksi
+- produksi2
+- produksi3
+- produksi4
+- produksi5
+- produksi6
+- produksi7
+- input_produksi
+- input_produksi2
+- input_produksi3
+- input_produksi4
+- input_produksi5
+- input_produksi6
+- input_produksi7
+- edit_produksi
+- surat_jalan
+- surat_jalan_terinput
+- input_surat_jalan
+- edit_surat_jalan
+- cetak_surat_jalan
+- data_daily
+- data_daily2
+- data_daily3
+- data_daily4

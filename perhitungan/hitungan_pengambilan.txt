@@ -1,0 +1,57 @@
+pengambilan 1 -- rencana 1 = +0
+pengambilan 2 -- rencana 1 = +1
+pengambilan 3 -- rencana 1 = +2
+pengambilan 4 -- rencana 1 = +3
+pengambilan 5 -- rencana 1 = +4
+pengambilan 6 -- rencana 1 = +5
+pengambilan 7 -- rencana 1 = +6
+
+pengambilan 1 -- rencana 2 = +1
+pengambilan 2 -- rencana 2 = +2
+pengambilan 3 -- rencana 2 = +3
+pengambilan 4 -- rencana 2 = +4
+pengambilan 5 -- rencana 2 = +5
+pengambilan 6 -- rencana 2 = +6
+pengambilan 7 -- rencana 2 = +7
+
+pengambilan 1 -- rencana 3 = +2
+pengambilan 2 -- rencana 3 = +4
+pengambilan 3 -- rencana 3 = +6
+pengambilan 4 -- rencana 3 = +8
+pengambilan 5 -- rencana 3 = +10
+pengambilan 6 -- rencana 3 = +12
+pengambilan 7 -- rencana 3 = +14
+
+
+pengambilan 1 -- rencana 4 = +3
+pengambilan 2 -- rencana 4 = +6
+pengambilan 3 -- rencana 4 = +9
+pengambilan 4 -- rencana 4 = +12
+pengambilan 5 -- rencana 4 = +15
+pengambilan 6 -- rencana 4 = +18
+pengambilan 7 -- rencana 4 = +21
+
+
+pengambilan 1 -- rencana 5 = +4
+pengambilan 2 -- rencana 5 = +8
+pengambilan 3 -- rencana 5 = +12
+pengambilan 4 -- rencana 5 = +16
+pengambilan 5 -- rencana 5 = +20
+pengambilan 6 -- rencana 5 = +24
+pengambilan 7 -- rencana 5 = +28
+
+pengambilan 1 -- rencana 6 = +5
+pengambilan 2 -- rencana 6 = +10
+pengambilan 3 -- rencana 6 = +15
+pengambilan 4 -- rencana 6 = +20
+pengambilan 5 -- rencana 6 = +25
+pengambilan 6 -- rencana 6 = +30
+pengambilan 7 -- rencana 6 = +35
+
+pengambilan 1 -- rencana 7 = +6
+pengambilan 2 -- rencana 7 = +12
+pengambilan 3 -- rencana 7 = +18
+pengambilan 4 -- rencana 7 = +24
+pengambilan 5 -- rencana 7 = +30
+pengambilan 6 -- rencana 7 = +36
+pengambilan 7 -- rencana 7 = +42
